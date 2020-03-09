@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Triangle
+class Rightangletriangle
 {
   public static void main(String args[])
   {
